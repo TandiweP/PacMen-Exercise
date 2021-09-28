@@ -1,0 +1,5 @@
+Title: Pacman Exercise
+Description: When the "Add Pacman" button is clicked, a pacman image will be added. This can be repeated as many times as desired.  Click "Start Game" to send the pacmen bouncing around the screen! 
+How to Run: Fork and clone this repo to your code editor, then load it onto a browser to use. 
+Roadmap of Future Improvements: I intend to start with adding CSS styling, and then try adding my own images I have created to the mix. 
+License: see LICENSE file.
